@@ -1,14 +1,12 @@
 // ==UserScript==
 // @name         Bulk Delete Chats for ChatGPT
-// @namespace    http://tampermonkey.net/
-// @version      1.0.3
-// @description  Add bulk delete UI to ChatGPT
-// @author       Sannjay
+// @namespace    https://github.com/cu-sanjay/
+// @version      1.3.1
+// @description  Add bulk delete functionality for ChatGPT chats
+// @author       Sanjay Choudhary
 // @match        https://chatgpt.com/*
-// @grant        none
 // @icon         https://img.icons8.com/?size=100&id=iGqse5s20iex&format=png&color=000000
-// @downloadURL  https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
-// @updateURL    https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
+// @grant        none
 // ==/UserScript==
 
 (function () {
