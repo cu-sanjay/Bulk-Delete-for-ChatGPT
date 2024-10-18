@@ -6,8 +6,8 @@
 // @author       Sannjay
 // @match        https://chat.openai.com/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
-// @updateURL    https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
+// @downloadURL  https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/refs/heads/main/chatgpt_bulk_delete.js
+// @updateURL    https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/refs/heads/main/chatgpt_bulk_delete.js
 // ==/UserScript==
 
 (function () {
