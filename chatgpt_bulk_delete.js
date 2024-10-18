@@ -6,6 +6,7 @@
 // @author       Sannjay
 // @match        https://chatgpt.com/*
 // @grant        none
+// @icon         https://img.icons8.com/?size=100&id=iGqse5s20iex&format=png&color=000000
 // @downloadURL  https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
 // @updateURL    https://raw.githubusercontent.com/cu-sanjay/Bulk-Delete-for-ChatGPT/main/chatgpt_bulk_delete.js
 // ==/UserScript==
