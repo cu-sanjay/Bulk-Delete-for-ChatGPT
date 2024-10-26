@@ -31,7 +31,36 @@ The **ChatGPT Bulk Delete Tool** is a powerful userscript that allows you to sel
 3. **Start Using the Tool**:  
    - Open [ChatGPT](https://chat.openai.com).
    - You’ll notice new checkboxes next to your conversations, allowing you to bulk select and delete chats with ease.
+---
 
+<details>
+<summary>⌈ Manual Installation (If the script is not opening directly from above link) 🚀✨ ⌋</summary>
+
+If the script is not opening directly from the GitHub raw file, you can add it manually by following these steps:
+
+1. **Copy the Entire Script**: Select all of the code in the script file and copy it to your clipboard.
+
+2. **Open Tampermonkey in Your Browser**:
+   - In your browser, click on the **Tampermonkey** icon (usually located in the extensions toolbar).
+   - Select **Dashboard** from the dropdown menu.
+
+3. **Create a New Script**:
+   - In the Tampermonkey Dashboard, click on the **+ (Add a new script)** button in the top-left corner.
+
+4. **Paste the Script**:
+   - Delete any placeholder code that appears in the editor, and **paste your copied script** into the editor.
+
+5. **Save the Script**:
+   - Click **File > Save** or press **Ctrl + S** (Windows) / **Cmd + S** (Mac) to save the script.
+
+6. **Enable the Script**:
+   - Ensure the script is enabled in the Dashboard, and Tampermonkey will now run it on the specified pages.
+
+After these steps, the script should be active and ready to use.
+
+</details>
+
+---
 ## **Why Use This Tool?**
 
 - **Efficient**: Avoid performance issues, slowdowns, or incorrect deletions caused by buggy browser extensions.
